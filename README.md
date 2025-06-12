@@ -13,7 +13,7 @@ Built using **HTML**, **CSS**, and **JavaScript** with a modern UI design.
 
 ## 🚀 Demo
 
-![Demo](screenshot.png)
+![Demo](Screenshot.png)
 
 ---
 
